@@ -7,11 +7,14 @@ body {
   padding-top: 60px;
   color:cadetblue;
   background-color:beige;
-  text-align: center;
+}
+p{
+  text-align : center;
 }
 .box {
   text-align: center;
   width: 100%;
+  display: flex;
 }
 
 .icon {
@@ -24,6 +27,7 @@ h3 {
   font-weight: bold;
   color: #202123;
   margin: 16px 0 40px;
+  text-align : center;
 }
 form {
   display: flex;
@@ -32,17 +36,13 @@ form {
   margin-left: 25%;
   margin-right:25%;
   width: 50%;
-  
- 
-  
 }
 input[type="text"] {
   padding: 12px 16px;
   border: 1px solid #10a37f;
+  border: 1px solid #10a37f;
   border-radius: 4px;
-  margin-bottom: 24px;
-  
-  
+  margin-bottom: 24px; 
 }
 ::placeholder {
   color: #8e8ea0;
@@ -57,11 +57,9 @@ input[type="submit"] {
   border-radius: 4px;
   text-align: center;
   cursor: pointer;
-
-  
 }
 .result {
   font-weight: bold;
   margin-top: 40px;
-  
 }
+
