@@ -7,5 +7,5 @@ Then in your terminal type
 `. venv/bin/activate`<br />
 `pip3 install -r requirements.txt`<br />
 `flask run`
-`
+
 And you should see a link, which you can click and try out the site for yourself. 
