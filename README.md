@@ -1,4 +1,4 @@
-# WishfulThinker
+# WishMate
 
 To run, get an API key from OpenAi. Edit the file ".env.example" to be ".env" and in the blank spot where it says "OPENAI_API_KEY=", and enter your key there. 
 Then in your terminal type:
